@@ -5,5 +5,5 @@ y= np.sin(t)
 
 plt.plot(t,y)
 plt.savefig("seno.png")
-
+plt.show()
  
